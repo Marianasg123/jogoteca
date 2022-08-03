@@ -6,5 +6,4 @@
 
 ``: Novo jogo
 - `Listas`: Listar jogos
-
-<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Mariana da Silva Gonçalves</sub>](https://github.com/camilafernanda) | 
+[<img src="https://photos.google.com/photo/AF1QipNmYaJe85pQdt7O-PQJVEYkVp0ccJHlaUaWm6tm" width=115><br><sub>Mariana da Silva Gonçalves</sub>]
